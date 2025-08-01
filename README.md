@@ -29,6 +29,19 @@ class LucienLaumont:
             "ai_tools": ["Mistral AI", "Hugging Face", "LLaMA"],
             "deployment": ["Render", "Docker", "Cloud Platforms"]
         }
+
+    def currently_exploring(self):
+        """
+        Current side projects and learning adventures
+        """
+        return [
+            "🎵 Building a Deezer MCP for music recommendation systems",
+            "🎓 Creating an Alumni Platform for CPES - Jean-Moulin - Torcy",
+            "🌱 Exploring how AI can help preserve the environment"
+        ]
+    
+    def get_learning_status(self):
+        return "🔄 Always building something new! 🚀"
 ```
 
 ---
