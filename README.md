@@ -23,9 +23,9 @@ class LucienLaumont:
         
     def get_skills(self):
         return {
-            "languages": ["Python", "JavaScript", "SQL"],
+            "languages": ["Python", "R", "SQL", "C"],
             "frameworks": ["Next.js", "TensorFlow", "Scikit-learn"],
-            "databases": ["PostgreSQL", "Vector DBs"],
+            "databases": ["PostgreSQL", "Vector DBs - Pinecone"],
             "ai_tools": ["Mistral AI", "Hugging Face", "LLaMA"],
             "deployment": ["Render", "Docker", "Cloud Platforms"]
         }
