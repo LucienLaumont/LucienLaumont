@@ -58,7 +58,7 @@ class LucienLaumont:
 ## 💼 Professional Experience
 
 ### 🚀 Data Science & AI Intern
-**📍 Vancouver, Canada - ![YourMainGuy Consulting](https://www.yourmainguy.com)** | **⏱️ 6 months**
+**📍 Vancouver, Canada - [YourMainGuy Consulting](https://www.yourmainguy.com)** | **⏱️ 6 months**
 
 <details>
 <summary><strong>🛠️ Full-stack Development</strong></summary>
