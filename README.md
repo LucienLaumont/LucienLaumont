@@ -26,7 +26,7 @@ class LucienLaumont:
             "languages": ["Python", "R", "SQL", "C"],
             "frameworks": ["Next.js", "TensorFlow", "Scikit-learn"],
             "databases": ["PostgreSQL", "Vector DBs - Pinecone"],
-            "ai_tools": ["Mistral AI", "Hugging Face", "LLaMA"],
+            "ai_tools": ["Mistral AI","Azure AI Studio", "Hugging Face", "LLaMA"],
             "deployment": ["Render", "Docker"]
         }
 
