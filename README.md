@@ -36,6 +36,26 @@ I’m a **Data Science & AI Engineer** with a strong foundation from ESIEE Paris
     - Achieved sub-second response times on complex queries  
     - Elevated system precision by 30 % through cleaner data segmentation and model fine-tuning
 
+---
+
+## 🎓 Academic Projects
+
+- **Road Accident Severity Prediction Competition**  
+  - **Event:** ESIEE Paris Data Science & AI E4 (Class of 2023–2024) ML challenge with ~60 participants  
+  - **Objective:** Achieve the highest AUC predicting road accident severity using a dataset of 40+ variables (road type, weather conditions, etc.)  
+  - **Duration:** 2-month competition  
+  - **Outcome:** 1st place, **AUC 0.845**
+    
+- **Cooking Assistant Chatbot**  
+  - **Team:** 3 members  
+  - **Objective:** Fine-tune a **GPT-2** model to serve as an interactive cooking assistant  
+  - **Tech Stack:**  
+    - **Backend:** Python  
+    - **Frontend:** Next.js  
+  - **Data Pipeline:**  
+    - Generated a synthetic Q&A dataset using open-source LLaMA models on Hugging Face  
+    - Curated and cleaned prompts to ensure realistic cooking scenarios  
+  - **Result:** Deployed a full-stack chatbot capable of recipe suggestions, ingredient substitutions, and step-by-step guidance
 
 ---
 
