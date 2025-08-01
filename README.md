@@ -13,12 +13,29 @@ I’m a **Data Science & AI Engineer** with a strong foundation from ESIEE Paris
 
 ## 💼 Professional Experience
 
-- **Data Science Intern** (6 months)  
-  _Vancouver, Canada_  
-  During my internship, I applied the skills acquired during my studies to architect and deploy a **Retrieval-Augmented Generation (R.A.G.) system**. This project involved:  
-  - Designing a scalable retrieval pipeline to fetch relevant documents  
-  - Integrating a state-of-the-art language model for on-demand response generation  
-  - Ensuring low-latency, high-accuracy results for real-world queries
+- **Data Science & AI Intern** (6 months)  
+  _Vancouver, Canada_
+
+  - **Full-stack development:**  
+    - Backend services in **Python**  
+    - Frontend interfaces with **Next.js**
+
+  - **Database & deployment:**  
+    - Designed schemas and managed data in **PostgreSQL**  
+    - Deployed and monitored the entire system on **Render**
+
+  - **Advanced AI integration:**  
+    - Leveraged Mistral AI’s cutting-edge models—**Embedding**, **OCR**, and **Mistral Large**—to supercharge retrieval and generation  
+    - Built a scalable R.A.G. (Retrieval-Augmented Generation) pipeline for real-time document querying
+
+  - **Document processing & performance:**  
+    - Engineered regex-based chunking algorithms to split documents into the cleanest, most informative segments  
+    - Optimized chunk size and indexing to minimize latency and maximize retrieval accuracy
+
+  - **Impact:**  
+    - Achieved sub-second response times on complex queries  
+    - Elevated system precision by 30 % through cleaner data segmentation and model fine-tuning
+
 
 ---
 
