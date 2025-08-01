@@ -47,7 +47,7 @@ class LucienLaumont:
 <td width="200">
 
 ![Education](https://img.shields.io/badge/Level-Master's-purple?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Current-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Graduate-brightgreen?style=flat-square)
 
 </td>
 </tr>
@@ -102,15 +102,6 @@ class LucienLaumont:
 - Optimized chunk size and indexing for minimal latency and maximum retrieval accuracy
 
 </details>
-
-### 📊 Impact & Results
-
-```yaml
-Performance Metrics:
-  - Response Time: "Sub-second on complex queries"
-  - System Precision: "+30% improvement"
-  - Method: "Cleaner data segmentation + model fine-tuning"
-```
 
 ---
 
