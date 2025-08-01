@@ -158,20 +158,14 @@ graph LR
 - Generated synthetic Q&A dataset using **open-source LLaMA models** on Hugging Face
 - Curated and cleaned prompts for realistic cooking scenarios
 
-#### 🚀 Result
-Full-stack chatbot capable of:
-- 🍽️ Recipe suggestions
-- 🔄 Ingredient substitutions  
-- 📝 Step-by-step cooking guidance
-
 ---
 
 <div align="center">
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucien-laumont)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucien.laumont@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucienlaumont)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laumontlucien@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucienLaumont)
 
 </div>
