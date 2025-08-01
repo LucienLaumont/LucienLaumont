@@ -70,7 +70,7 @@ class LucienLaumont:
 
 ## 💼 Professional Experience
 
-### 🚀 Data Science & AI Intern
+### 🚀 Data Science & AI Intern - Build a R.A.G System
 **📍 Vancouver, Canada - [YourMainGuy Consulting](https://www.yourmainguy.com)** | **⏱️ 6 months**
 
 <details>
