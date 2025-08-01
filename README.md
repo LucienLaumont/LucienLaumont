@@ -27,7 +27,7 @@ class LucienLaumont:
             "frameworks": ["Next.js", "TensorFlow", "Scikit-learn"],
             "databases": ["PostgreSQL", "Vector DBs - Pinecone"],
             "ai_tools": ["Mistral AI", "Hugging Face", "LLaMA"],
-            "deployment": ["Render", "Docker", "Cloud Platforms"]
+            "deployment": ["Render", "Docker"]
         }
 
     def currently_exploring(self):
