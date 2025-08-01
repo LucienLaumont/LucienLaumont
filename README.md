@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Data Science](https://img.shields.io/badge/Data%20Science-Specialist-blue?style=for-the-badge&logo=databricks&logoColor=white)
-![AI Engineer](https://img.shields.io/badge/AI%20Engineer-Expert-green?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-Junior-blue?style=for-the-badge&logo=databricks&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-Junior-green?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ESIEE Paris](https://img.shields.io/badge/ESIEE%20Paris-2024--2025-red?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
