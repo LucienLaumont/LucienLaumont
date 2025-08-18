@@ -19,7 +19,7 @@ class LucienLaumont:
         self.role = "Data Science & AI Engineer"
         self.location = "Paris, France"
         self.education = "ESIEE Paris - Master's in Data Science & AI"
-        self.passion = ["Machine Learning", "AI Innovation", "Problem Solving"]
+        self.passion = ["Environmental preservation", "AI Innovation", "Sports"]
         
     def get_skills(self):
         return {
